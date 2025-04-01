@@ -12,8 +12,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```![Uploading Screenshot 2025-04-01 at 9.05.13 AM.png…]()
 
+<img width="1792" alt="Screenshot 2025-04-01 at 9 30 34 AM" src="https://github.com/user-attachments/assets/b2dceffe-a8a3-46ec-be67-39dbe9e91e06" />
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
