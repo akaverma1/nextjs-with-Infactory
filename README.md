@@ -12,7 +12,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+```![Uploading Screenshot 2025-04-01 at 9.05.13 AM.png…]()
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
